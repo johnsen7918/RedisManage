@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "91eknazqWkY=",
+  "success": true,
+  "projectFilePath": "E:\\Learning\\RedisManager\\RedisManage\\RedisManage.csproj",
+  "expectedPackageFiles": [
+    "D:\\Net_Program\\Net_NuGet\\Packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "D:\\Net_Program\\Net_NuGet\\Packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "D:\\Net_Program\\Net_NuGet\\Packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "D:\\Net_Program\\Net_NuGet\\Packages\\stackexchange.redis\\2.7.33\\stackexchange.redis.2.7.33.nupkg.sha512",
+    "D:\\Net_Program\\Net_NuGet\\Packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
